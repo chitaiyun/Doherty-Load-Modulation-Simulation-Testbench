@@ -3,7 +3,7 @@
 ## Motivation
 
 In practical Doherty PA design, the output network's load modulation behavior should be validated in EDA **before** co-simulating with active transistors.
-Here is an example ADS testbench for simulating a Doherty PA output matching network. It plots the impedances presented to the main and auxiliary amplifiers and the network insertion loss.
+Here is an example ADS testbench for simulating a Doherty PA output matching network. It plots the impedances presented to the main and auxiliary amplifiers and the network loss.
 
 ## Setup
 
